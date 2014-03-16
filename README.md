@@ -1,4 +1,10 @@
-wputrack404search
+Track 404 & Search
 =================
 
-Logs &amp; analyze search queries &amp; 404 Errors
+Logs & analyze search queries & 404 Errors
+
+How to install :
+---
+
+* Put this folder to your wp-content/plugins/ folder.
+* Activate the plugin in "Plugins" admin section.
